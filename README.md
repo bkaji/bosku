@@ -1,0 +1,2 @@
+# bosku
+safelink
